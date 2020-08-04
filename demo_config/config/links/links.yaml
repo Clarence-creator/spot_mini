@@ -1,0 +1,24 @@
+base: dummy_link
+left_front:
+  - rear_right_shoulder_link
+  - rear_right_leg_link
+  - rear_right_foot_link
+  - rear_right_toe_link
+
+right_front:
+  - rear_left_shoulder_link
+  - rear_left_leg_link
+  - rear_left_foot_link
+  - rear_left_toe_link
+
+left_hind:
+  - front_right_shoulder_link
+  - front_right_leg_link
+  - front_right_foot_link
+  - front_right_toe_link
+
+right_hind:
+  - front_left_shoulder_link
+  - front_left_leg_link
+  - front_left_foot_link
+  - front_left_toe_link
